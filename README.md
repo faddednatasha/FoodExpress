@@ -13,6 +13,11 @@ The design follows a comprehensive user journey from onboarding to order trackin
 * **Order Process:** Includes detailed Order Pages, Confirmation, and Payment selection.
 * **Post-Order:** Features for Tracking Orders and Rating the Driver, Food, and Restaurant.
 
-## 🔗 Figma Link (The Source of Truth)
-**https://www.figma.com/design/pAaF5DOpt0s5U2052T70sz/Project_Foodexpress?node-id=0-1&t=A8FnR4B92dlguJTX-1**
-<img width="362" height="362" alt="image" src="https://github.com/user-attachments/assets/649ef144-b9bb-4617-b837-42d2d455612d" />
+## 📢 Feedback & Engagement
+
+We welcome all feedback and suggestions to help improve the FoodExpress experience and guide development!
+
+* **View the Live Design:** You can visit the full, interactive design flow directly on Figma using the link below:
+    * [Figma Project Link](https://www.figma.com/design/pAaF5DOpt0s5U2052T70sz/Project_Foodexpress?node-id=0-1&t=A8FnR4B92dlguJTX-1)
+* **Share Suggestions:** Feel free to open a new **Issue** on this GitHub repository for any bugs, design inconsistencies, or feature proposals. Your contributions are highly valued!
+  
