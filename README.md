@@ -1,4 +1,4 @@
-# 🍔 FoodExpress Mobile App Design 
+# 🍔 FoodExpress Mobile App Design        
 
 ## 🌟 Project Overview
 This repository contains the complete UI/UX design and assets for the **FoodExpress** mobile application, a platform dedicated to the fast and smooth delivery of favorite and comfort food.
@@ -21,3 +21,4 @@ We welcome all feedback and suggestions to help improve the FoodExpress experien
     * [Figma Project Link](https://www.figma.com/design/pAaF5DOpt0s5U2052T70sz/Project_Foodexpress?node-id=0-1&t=A8FnR4B92dlguJTX-1)
 * **Share Suggestions:** Feel free to open a new **Issue** on this GitHub repository for any bugs, design inconsistencies, or feature proposals. Your contributions are highly valued!
   
+<img width="362" height="362" alt="image" src="https://github.com/user-attachments/assets/14c35d7c-e8a4-4b67-9a75-623157d6e748" />
