@@ -1,8 +1,6 @@
 # 🍔 FoodExpress Mobile App Design 
 
 <img width="362" height="362" alt="image" src="https://github.com/user-attachments/assets/649ef144-b9bb-4617-b837-42d2d455612d" />
-
-
 ## 🌟 Project Overview
 This repository contains the complete UI/UX design and assets for the **FoodExpress** mobile application, a platform dedicated to the fast and smooth delivery of favorite and comfort food.
 
